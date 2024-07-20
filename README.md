@@ -103,6 +103,30 @@ This document provides a detailed account of my one-month summer internship, foc
 - Error Handling: Understand how to handle form errors and display them to the user.
 
 #### Day 5: Django Admin Interface
+
+- Introduction to Admin: Learn about Django's built-in admin interface, which provides a powerful and customizable interface for managing site content.
+- Registering Models: Understand how to register models with the admin site to make them accessible.
+- Customizing Admin: Learn how to customize the admin interface by defining admin classes and using features like list display, search fields, and filters.
+- Admin Actions: Explore how to create custom admin actions to perform batch operations on selected records.
+
+
+
+## Project: E-commerce Website for Gym
+
+### Overview
+During my internship, I worked on an e-commerce website project related to a gym. The project includes three pages: Home, Products, and Contact Us.
+
+### Pages
+
+#### Home Page
+- Contains details about gym-related topics like bulking vs. cutting body.
+
+#### Products Page
+- Features product cards for gym equipment like dumbbells and other items.
+
+#### Contact Us Page
+- Includes a form for users to submit their name, email, and query.
+- The form submissions can be viewed in the Django admin panel.
 - Introduction to Admin: Learn about Django's built-in admin interface, which provides a powerful and customizable interface for managing site content.
 - Registering Models: Understand how to register models with the admin site to make them accessible.
 - Customizing Admin: Learn how to customize the admin interface by defining admin classes and using features like list display, search fields, and filters.
